@@ -11,6 +11,9 @@ public class standAloneTest {
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://Rahulshettyacademy.com/client");
+		System.out.println("Test1 Passes1");
+		System.out.println("Test1 Passes2");
+		System.out.println("Test1 Passes3");
 
 	}
 
